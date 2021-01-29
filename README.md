@@ -1,4 +1,4 @@
-# ELE206 Fall 2020
+# ELE 206 Fall 2020
 
 This repository contains my assignment submissions for [ELE 206 Contemporary Logic Design].
 
