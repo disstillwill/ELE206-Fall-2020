@@ -1,6 +1,6 @@
 # ELE 206 Fall 2020
 
-This repository contains my assignment submissions for [ELE 206 Contemporary Logic Design].
+This repository contains my assignment submissions for [ELE 206 Contemporary Logic Design](https://registrar.princeton.edu/course-offerings/course-details?courseid=002463&term=1212).
 
 ## Contents
 
