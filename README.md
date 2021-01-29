@@ -9,11 +9,13 @@ This repository contains my assignment submissions for [ELE 206 Contemporary Log
 ```
 .
 └── Assignments
-    ├── ps1
-    ├── ps2
-    ├── ps3
-    ├── ps4
-    └── ps5
+    ├── lab0
+    ├── lab1
+    ├── lab2
+    ├── lab3
+    ├── lab4
+    ├── lab5
+    └── lab6
 ```
 
 Each subfolder also contains a directory called `wsvoboda` with the actual submission and resulting grade report.
